@@ -1,0 +1,8 @@
+<head>
+
+<p>
+                        iR-ADV 4225i: Up to 25 ppm (A4), Up to 15 ppm (A3), Up to 17 ppm (A4R), Min. 14 ppm, max. 17 ppm (A5R)
+                        iR-ADV 4235i: Up to 35 ppm (A4), Up to 22 ppm (A3), Up to 32 ppm (A4R), Min. 14 ppm, max. 20 ppm (A5R)
+                        iR-ADV 4245i: Up to 45 ppm (A4), Up to 22 ppm (A3), Up to 32 ppm (A4R), Min. 14 ppm, max. 20 ppm (A5R)
+                        iR-ADV 4251i: Up to 51 ppm (A4), Up to 25 ppm (A3), Up to 37 ppm (A4R), Min. 14 ppm, max. 20 ppm (A5R)
+                    </p>
